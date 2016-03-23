@@ -2,14 +2,14 @@
   "key": "sequence-diagramr",
   "name": "Sequence Diagramr",
   "description": "Generate UML sequence diagrams in Confluence pages",
-  "baseUrl": "{{localBaseUrl}}",
+  "baseUrl": "raw.githubusercontent.com/volmarm/test-atl/master/",
   "vendor": {
     "name": "Atlassian Labs",
     "url": "https://www.atlassian.com"
   },
   "links": {
     "documentation": "https://bitbucket.org/atlassianlabs/atlassian-connect-confluence-sequence-diagramr",
-    "self": "{{localBaseUrl}}/atlassian-connect.json"
+    "self": "raw.githubusercontent.com/volmarm/test-atl/master/atlassian-connect.json"
   },
   "authentication": {
     "type": "jwt"
