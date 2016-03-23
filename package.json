@@ -1,0 +1,16 @@
+{
+  "name": "Sequence-Diagramr-for-Confluence",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~3.3.4",
+    "express-hbs": "*",
+    "atlassian-connect-express": "~0.9.0",
+    "static-expiry": ">=0.0.5",
+    "websequencediagrams": "*",
+    "cacheable-middleware": "*"
+  }
+}
